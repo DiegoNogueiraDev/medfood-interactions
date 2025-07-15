@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.nox/
+.eggs/
+*.egg-info/
+*.egg
+dist/
+build/
+*.so
+*.manifest
+*.spec
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Claude IDE
+.claude/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ML/DL/AI
+# ---
+# Large data files - consider using DVC or Git LFS for these
+# For example:
+# data/*.csv
+# data/*.jsonl
+# data/*.zip
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+*.pb
+saved_model/
+checkpoints/
+models/
+
+# Log and output files
+logs/
+results/
+wandb/
+mlruns/
+.dvc/
+.cache/

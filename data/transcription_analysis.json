@@ -1,0 +1,76 @@
+{
+  "total_blocks": 139,
+  "blocks_by_category": {
+    "Title": 18,
+    "NarrativeText": 22,
+    "ListItem": 82,
+    "Footer": 9,
+    "UncategorizedText": 7,
+    "Header": 1
+  },
+  "text_blocks": 139,
+  "total_characters": 29746,
+  "empty_blocks": 0,
+  "sample_texts": [
+    {
+      "block_index": 0,
+      "category": "Title",
+      "text_preview": "@ ChatGPT",
+      "text_length": 9
+    },
+    {
+      "block_index": 1,
+      "category": "Title",
+      "text_preview": "Interações entre Medicamentos, Alimentos e Bebidas: Dados e Abordagem do Modelo",
+      "text_length": 79
+    },
+    {
+      "block_index": 2,
+      "category": "NarrativeText",
+      "text_preview": "Construir um modelo para prever ou explicar interações adversas entre medicamentos e alimentos/ bebidas (considerando fatores como ingestão em jejum ou alimentado e horário manhã/tarde/noite) requer u...",
+      "text_length": 441
+    },
+    {
+      "block_index": 3,
+      "category": "Title",
+      "text_preview": "Fontes de Dados (Datasets) para Interações Fármaco-Alimento/ Bebida",
+      "text_length": 67
+    },
+    {
+      "block_index": 4,
+      "category": "ListItem",
+      "text_preview": "• Bulário Eletrônico da ANVISA (Brasil): Contém bulas oficiais (textos completos) de ~7 mil medicamentos registrados no Brasil 1 . Essas bulas incluem seções importantes (ex: composição, modo de uso, ...",
+      "text_length": 839
+    },
+    {
+      "block_index": 5,
+      "category": "ListItem",
+      "text_preview": "• DrugBank (base de dados internacional): Reúne informações farmacológicas de milhares de fármacos, incluindo uma seção específica de “Food Interactions” em cada registro de fármaco 3 . Esse campo des...",
+      "text_length": 1080
+    },
+    {
+      "block_index": 6,
+      "category": "ListItem",
+      "text_preview": "• FooDrugs (Food-Drug Interaction Database): Um dataset recente, aberto, compilado por pesquisadores, que unifica informações textuais de interações alimento-fármaco de múltiplas fontes. A versão 2 de...",
+      "text_length": 813
+    },
+    {
+      "block_index": 7,
+      "category": "Footer",
+      "text_preview": "1",
+      "text_length": 1
+    },
+    {
+      "block_index": 8,
+      "category": "NarrativeText",
+      "text_preview": "bem estabelecidas clinicamente para treinar o modelo (evitando viés de interações apenas teóricas).",
+      "text_length": 99
+    },
+    {
+      "block_index": 9,
+      "category": "Title",
+      "text_preview": "Outras fontes internacionais:",
+      "text_length": 29
+    }
+  ]
+}
